@@ -1,0 +1,122 @@
+{
+  "title": "Portfolio – Edson Yair Durán Frías",
+  "description": "Computer Systems Engineer with a passion for software development and technology.",
+  "image": "/data/avatar.jpg",
+  "avatar": "/data/avatar.jpg",
+  "name": "Edson Yair Durán Frías",
+  "skill": "Software Developer",
+  "location": "Aguascalientes, Mexico",
+  "media": {
+    "email": "yair.frias.dev@gmail.com",
+    "cv": "/data/CV_YairFrias.pdf",
+    "github": "https://github.com/YairFriasDev",
+    "likedin": "https://www.linkedin.com/in/edsonyairduran/"
+  },
+  "about": "I am a Computer Systems Engineering graduate with a passion for software development and technology. During my university studies, I participated in innovative projects that combine web development, mobile applications, and hardware. I’m looking for an opportunity to apply my knowledge in a professional environment, keep learning, and deliver creative solutions.",
+  "technologies": [
+    { "icon": "devicon-vuejs-plain", "name": "Vue.js" },
+    { "icon": "devicon-react-original", "name": "React Native" },
+    { "icon": "devicon-nodejs-plain", "name": "Node.js" },
+    { "icon": "devicon-docker-plain", "name": "Docker" },
+    { "icon": "devicon-mysql-plain", "name": "MySQL" },
+    { "icon": "devicon-azure-plain", "name": "Azure" }
+  ],
+  "experience": [
+    {
+      "icon": "briefcase",
+      "title": "Hemocel Blood Bank",
+      "subtitle": "University Social Project",
+      "description": "Created a responsive website for the Hemocel Blood Bank, integrating SQLite databases and deploying on Hostinger and Render.",
+      "date": "2024"
+    },
+    {
+      "icon": "cpu",
+      "title": "Security System with Raspberry Pi",
+      "subtitle": "University Project",
+      "description": "Developed a surveillance mobile app using React Native and Raspberry Pi with motion sensors and Azure Blob Storage for image storage.",
+      "date": "2023"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "bar_chart_2",
+      "title": "Inventory Management System – Hemocel",
+      "subtitle": "University Project",
+      "description": "Inventory management web application for a blood bank, built with Vue.js, Express.js, and SQLite. Deployed on Render and Hostinger, focused on usability and data persistence.",
+      "technologies": [
+        { "icon": "devicon-vuejs-plain", "name": "Vue.js" },
+        { "icon": "devicon-nodejs-plain", "name": "Express.js" },
+        { "icon": "devicon-sqlite-plain", "name": "SQLite" }
+      ],
+      "image": "/data/hemocel.png",
+      "url": "https://hemocel.com",
+      "github": "https://github.com/YairFriasDev/Hemocel"
+    },
+    {
+      "icon": "video",
+      "title": "Surveillance App with React Native",
+      "subtitle": "University Project",
+      "description": "Mobile surveillance application that detects motion with Raspberry Pi and saves images to Azure Blob Storage, featuring notifications and cloud storage.",
+      "technologies": [
+        { "icon": "devicon-react-original", "name": "React Native" },
+        { "icon": "devicon-raspberrypi-plain", "name": "Raspberry Pi" },
+        { "icon": "devicon-azure-plain", "name": "Azure" }
+      ],
+      "image": "/data/SDM.png",
+      "url": "",
+      "github": "https://github.com/ISC-UPA/2024-3-ISC09-Sistema-de-Seguridad-con-Deteccion-de-Movimiento"
+    },
+    {
+      "icon": "code",
+      "title": "CMS in React and Node.js",
+      "subtitle": "University Project",
+      "description": "Content management system built with React, Node.js, MySQL, and Docker. Focused on user experience, performance, and containerized deployment.",
+      "technologies": [
+        { "icon": "devicon-react-original", "name": "React" },
+        { "icon": "devicon-nodejs-plain", "name": "Node.js" },
+        { "icon": "devicon-docker-plain", "name": "Docker" }
+      ],
+      "image": "/data/cms.png",
+      "url": "",
+      "github": "https://github.com/UP210173/Team3"
+    }
+  ],
+  "training": [
+    {
+      "icon": "graduation_cap",
+      "title": "Bachelor’s in Computer Systems Engineering",
+      "subtitle": "Polytechnic University of Aguascalientes",
+      "description": "",
+      "date": "2021 – 2025",
+      "certificate": ""
+    },
+    {
+      "icon": "shield_check",
+      "title": "Junior Cybersecurity Analyst",
+      "subtitle": "Cisco Networking Academy",
+      "description": "",
+      "date": "2024",
+      "certificate": ""
+    }
+  ],
+  "extras": [
+    {
+      "image": "/data/freecodecamp-fullstack.png",
+      "title": "Certified Full Stack Developer Curriculum",
+      "description": "In progress on freeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/fcc-your-username/full-stack"
+    },
+    {
+      "image": "/data/aws-solutions-architect.png",
+      "title": "AWS Certified Solutions Architect – Associate",
+      "description": "Planned study, official AWS course",
+      "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/"
+    },
+    {
+      "image": "/data/gcp-data-engineer.png",
+      "title": "Google Cloud Professional Data Engineer",
+      "description": "Planned study, official Google Cloud course",
+      "url": "https://cloud.google.com/certification/data-engineer"
+    }
+  ]
+}
